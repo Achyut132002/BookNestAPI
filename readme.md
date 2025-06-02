@@ -2,6 +2,8 @@
 
 A RESTful API for managing books, user authentication, and book reviews. Built with Node.js, Express, and MongoDB.
 
+## API documentation - [link]() (to be added) 
+
 ## Features
 
 - User signup and login with JWT authentication
